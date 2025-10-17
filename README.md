@@ -16,19 +16,3 @@ Universidade Católica de Brasília — 4º Período
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="Figma" title="Figma"/>
 </p>
-
----
-
-## Entre em contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/murilo-farias-silva-728563355" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/murilo_f.silva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" height="36" alt="Instagram" title="Instagram"/>
-  </a>
-  <a href="https://wa.me/5561996172502" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" height="36" alt="WhatsApp" title="WhatsApp"/>
-  </a>
-</p>
