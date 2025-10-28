@@ -1,11 +1,11 @@
-# 💿 Murilo Silva!
+## 💿 Murilo F. Silva!
 
-** 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas**  
+### Estudante de Análise e Desenvolvimento de Sistemas
 Universidade Católica de Brasília — 2024/2026, 4º Período.
 
 ---
 
-## 📄 Habilidades
+### Habilidades
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" title="HTML5"/>
